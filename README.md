@@ -1,12 +1,11 @@
-## 마동석/김종국/이병헌 분류기
+## 햄버거패티 이미지를 통해 익음여부 판단기
 
-> 3분만에 만드는 인공지능 서비스: 마동석/김종국/이병헌 분류기
-
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/108695421-9fd92980-7543-11eb-89a0-e1be9c6008c8.png"/>
+> 3분만에 만드는 인공지능 서비스: 마동석/김종국/이병헌 분류기 를 활용한 햄버거패티 이미지를 통해 익음여부 판단기
+<br/>원본 : https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning
 
 ### 전체 시스템 구성도
 
-<img width="90%" src="https://user-images.githubusercontent.com/16822641/108695606-d44ce580-7543-11eb-9b44-367eabc72c70.png"/>
+<img width="90%" src="https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning/assets/93924210/3c461f70-41e2-40ea-9f11-41305fb3371d"/>
 
 ### 인공지능 서비스 개발 과정
 
