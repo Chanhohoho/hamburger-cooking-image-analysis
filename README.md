@@ -1,4 +1,4 @@
-## 햄버거패티 이미지를 통해 익음여부 판단기
+## 햄버거패티 익음여부 판단기
 
 > 3분만에 만드는 인공지능 서비스: 마동석/김종국/이병헌 분류기 를 활용한 햄버거패티 이미지를 통해 익음여부 판단기
 <br/>원본 : https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning
