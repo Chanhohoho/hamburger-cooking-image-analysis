@@ -5,7 +5,7 @@
 
 ### 전체 시스템 구성도
 
-<img width="90%" src="https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning/assets/93924210/3c461f70-41e2-40ea-9f11-41305fb3371d"/>
+<img width="90%" src="https://github.com/Chanhohoho/SSAPANG/assets/93924210/e4d2e770-9916-4ac8-8310-55a06defd229"/>
 
 ### 인공지능 서비스 개발 과정
 
